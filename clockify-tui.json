@@ -6,7 +6,7 @@
             "bin": [
                 "clockify-tui.exe"
             ],
-            "hash": "b7d0f81d70185d8d7b4002565cd6323538e2ca0c7af5259594dc7143197bd5df"
+            "hash": "75e4ad2bcb232ed4f3188048b0d5e66eb380a949d0fcc1a80178b535c624f91b"
         }
     },
     "homepage": "https://github.com/kevmul/clockify-tui",
