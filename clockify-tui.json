@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kevmul/clockify-tui/releases/download/v0.0.1/clockify-tui_Windows_x86_64.zip",
+            "bin": [
+                "clockify-tui.exe"
+            ],
+            "hash": "b7d0f81d70185d8d7b4002565cd6323538e2ca0c7af5259594dc7143197bd5df"
+        }
+    },
+    "homepage": "https://github.com/kevmul/clockify-tui",
+    "license": "MIT",
+    "description": "A terminal user interface for Clockify"
+}
