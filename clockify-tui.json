@@ -1,12 +1,12 @@
 {
-    "version": "0.0.10",
+    "version": "0.0.11",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kevmul/clockify-tui/releases/download/v0.0.10/clockify-tui_Windows_x86_64.zip",
+            "url": "https://github.com/kevmul/clockify-tui/releases/download/v0.0.11/clockify-tui_Windows_x86_64.zip",
             "bin": [
                 "clockify-tui.exe"
             ],
-            "hash": "cd409092f823fbcb27cbe4928690d80a799bbe049b88b4beba1737d2d9cae2ec"
+            "hash": "63621380a30a621761c0a5f494476c80854ca962ac67820f7f7aa0b4ffdcb5eb"
         }
     },
     "homepage": "https://github.com/kevmul/clockify-tui",
